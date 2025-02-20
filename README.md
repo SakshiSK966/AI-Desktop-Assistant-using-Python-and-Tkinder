@@ -17,7 +17,7 @@ This project is a simple AI Desktop Assistant built using Python and Tkinter for
    - A simple window-based interface with buttons for user interaction.
    - A text box to display conversation history.
    - An entry field for users to type commands.
-   - Buttons for "Speak", "Send", and "Exit".
+   - Buttons for "Ask", "Send", and "Delete".
 
 2. Speech Recognition  
    - Uses the speech_recognition library to convert voice into text.
@@ -33,10 +33,6 @@ This project is a simple AI Desktop Assistant built using Python and Tkinter for
 
 
 
-
-### **🔹 Technologies Used**
-- **Python**
-- **Tkinter (GUI)**
 - **SpeechRecognition (Voice input)**
 - **Pyttsx3 (Text-to-Speech)**
 - **Webbrowser, OS, and DateTime libraries**
