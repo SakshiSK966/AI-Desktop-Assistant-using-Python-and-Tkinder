@@ -30,10 +30,6 @@ def Action(data):
         text_to_speech.text_to_speech("ok")
         return "ok"
     
-     
-
-    
-
     elif "play music" in user_data:
         webbrowser.open("https://open.spotify.com/")
         text_to_speech.text_to_speech("Spotify is now ready for you")
