@@ -31,9 +31,3 @@ This project is a simple AI Desktop Assistant built using Python and Tkinter for
    - Executes tasks like opening Google, playing music, or telling time.
    - Closes the assistant when the user says "shutdown" or clicks "Exit".
 
-
-
-- **SpeechRecognition (Voice input)**
-- **Pyttsx3 (Text-to-Speech)**
-- **Webbrowser, OS, and DateTime libraries**
-
